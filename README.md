@@ -6,7 +6,7 @@ The software could be detected by VAC in the future. Only use it on accounts you
 
 ## Overview
 
-Cathook is a training software designed for Team Fortress 2 for Linux. Cathook includes some joke features like
+RazerHOOK is a training software designed for Team Fortress 2 for Linux. Cathook includes some joke features like
 
 * Ignore Hoovy
 * Encrypted chat
@@ -26,11 +26,9 @@ and a lot of useful features, including
 * Automatic matchmaking
 * And many more features!
 
-[FULL LIST OF FEATURES HERE](https://github.com/nullworks/cathook/wiki/Feature-List-and-explanations)
-
 # Installing, updating, attaching (injecting)
 
-[View our short guide to installing and using cathook](https://github.com/nullworks/cathook/wiki/Installing,-Attaching-And-General-Infos)
+(https://github.com/nullworks/cathook/wiki/Installing,-Attaching-And-General-Infos)
 
 ## Community
 You can chat with other cathook users in [our official Telegram group](https://t.me/nullworks) and the [cathook announcements channel](https://t.me/cathook_cheat).
